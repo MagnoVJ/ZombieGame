@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\magnovj\documents\visual studio 2015\projects\zombie game\zombie game\src\game.cpp(88): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+  Zombie Game.vcxproj -> C:\Users\MagnoVJ\Documents\Visual Studio 2015\Projects\Zombie Game\Debug\x64\Zombie Game.exe
+  Zombie Game.vcxproj -> C:\Users\MagnoVJ\Documents\Visual Studio 2015\Projects\Zombie Game\Debug\x64\Zombie Game.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  GameObject.cpp
+c:\users\magnovj\documents\visual studio 2015\projects\zombie game\engine\src\gameobject.cpp(50): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\magnovj\documents\visual studio 2015\projects\zombie game\engine\src\gameobject.cpp(103): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glfw3.lib(glfw3.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+glfw3.lib(glfw3.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Engine.vcxproj -> C:\Users\MagnoVJ\Documents\Visual Studio 2015\Projects\Zombie Game\Dependencies\Engine\lib\x64\Engine.lib

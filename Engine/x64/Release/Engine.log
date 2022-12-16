@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+  GameObject.cpp
+  TextMap.cpp
+src\TextMap.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\TextMap.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\TextMap.cpp(73): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+src\TextMap.cpp(74): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  ResourceManager.cpp
+  Engine.cpp
+  Shader.cpp
+  SpriteBatchRenderer.cpp
+  SpriteRenderer.cpp
+  Texture2D.cpp
+  TimeHandler.cpp
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+glfw3.lib(glfw3.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+  Engine.vcxproj -> C:\Users\MagnoVJ\Documents\Visual Studio 2015\Projects\Zombie Game\Dependencies\Engine\lib\x64\Engine.lib
